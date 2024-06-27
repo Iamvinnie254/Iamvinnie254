@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Stephen Vincent.
+- 👀 I’m interested in: Software development.
+- 🌱 I’m currently learning: Python,Php
+- 💞️ I'm looking to working with teams to provide long-lasting solutions to problems.
+- 📫 How to reach me: Whatsapp:+254794762489/+254702387039
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Do you know why errors are referred to as 'bugs'?
