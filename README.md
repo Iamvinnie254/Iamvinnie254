@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephen Vincent.
-- 👀 I’m interested in: Software development.
-- 🌱 I’m currently learning: Python,Php
+- 👀 I’m interested in: Software and web development.
+- 🌱 I’m currently learning: React
 - 💞️ I'm looking to working with teams to provide long-lasting solutions to problems.
 - 📫 How to reach me: Whatsapp:+254794762489/+254702387039
 - 😄 Pronouns: He/Him
