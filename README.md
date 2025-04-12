@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/stephenvin16363" target="blank"><img src="https://img.shields.io/twitter/follow/stephenvin16363?logo=twitter&style=for-the-badge" alt="stephenvin16363" /></a> </p>
 
-- 🌱 I’m currently learning **React Js,Java,Python,Django**
+- 🌱 I’m currently learning **React Js,Python-Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
