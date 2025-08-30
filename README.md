@@ -15,7 +15,7 @@
 
 <div align="center">
 
-### 🌍 **Digital Craftsman** • **Code Architect** • **Problem Solver**
+###  **Digital Craftsman** • **Code Architect** • **Problem Solver**
 *Juja, Kiambu, Kenya* 🇰🇪
 
 [![Linkedin](https://img.shields.io/badge/-Stephen_Vincent-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/stephen-vincent)](https://linkedin.com/in/stephen-vincent)
@@ -27,7 +27,7 @@
 ---
 <table>
 <tr>
-<td width="50%">
+<td width="full">
 
 ### 🔥 **Current Trajectory**
 ```python
@@ -41,9 +41,6 @@ class Developer:
     def get_passion(self):
         return "Turning ideas into digital reality"
 ```
-
-</td>
-<td width="50%">
 
 </td>
 </tr>
@@ -145,15 +142,6 @@ const learningPath = {
 
 ---
 
-## 🏆 **Achievement Unlocked**
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=iamvinnie254&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
 
 ## 📡 **Activity Radar**
 
