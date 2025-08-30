@@ -25,9 +25,6 @@
 </div>
 
 ---
-
-## 🎯 **Mission Control**
-
 <table>
 <tr>
 <td width="50%">
@@ -47,18 +44,6 @@ class Developer:
 
 </td>
 <td width="50%">
-
-### 🎮 **Stats Dashboard**
-```bash
-$ whoami
-stephen@dev:~$ Full-Stack Developer
-
-$ cat experience.txt
-▓▓▓▓▓▓▓▓░░ 80% Frontend
-▓▓▓▓▓▓▓░░░ 70% Backend  
-▓▓▓▓▓▓░░░░ 60% DevOps
-▓▓▓▓▓▓▓▓▓░ 90% Problem Solving
-```
 
 </td>
 </tr>
@@ -81,7 +66,7 @@ mindmap
     Backend
       Django
       Python
-      Node.js
+      GraphQL
       APIs
     Tools
       Git
@@ -194,21 +179,6 @@ const learningPath = {
 
 ---
 
-## 💬 **Let's Build Something Epic**
-
-<div align="center">
-
-### 🤝 **Collaboration Mode: ON**
-
-I'm always excited to work on innovative projects, contribute to open source, or just chat about tech!
-
-**Drop me a line if you're interested in:**
-- 🚀 Collaborating on full-stack projects
-- 💡 Discussing new technologies and frameworks  
-- 🌟 Contributing to meaningful open source work
-- ☕ Virtual coffee chats about development
-
-</div>
 
 ---
 
