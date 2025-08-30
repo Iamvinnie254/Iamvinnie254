@@ -1,28 +1,227 @@
-![MasterHead](https://cdn.vectorstock.com/i/500p/39/11/programming-and-software-development-web-page-vector-30433911.jpg)
- <h1 align="center">Hi 👋, I'm Stephen</h1>
-<h3 align="center">A passionate full-stack developer from Juja,Kiambu,Kenya</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvinnie254&label=Profile%20views&color=0e75b6&style=flat" alt="iamvinnie254" /> </p>
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  ███████╗████████╗███████╗██████╗ ██╗  ██╗███████╗███╗   ██╗ ║
+║  ██╔════╝╚══██╔══╝██╔════╝██╔══██╗██║  ██║██╔════╝████╗  ██║ ║
+║  ███████╗   ██║   █████╗  ██████╔╝███████║█████╗  ██╔██╗ ██║ ║
+║  ╚════██║   ██║   ██╔══╝  ██╔═══╝ ██╔══██║██╔══╝  ██║╚██╗██║ ║
+║  ███████║   ██║   ███████╗██║     ██║  ██║███████╗██║ ╚████║ ║
+║  ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="left"> <a href="https://twitter.com/stephenvin16363" target="blank"><img src="https://img.shields.io/twitter/follow/stephenvin16363?logo=twitter&style=for-the-badge" alt="stephenvin16363" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **React Js,Python-Django**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/stephenvin16363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stephenvin16363" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stephen vincent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen vincent" height="30" width="40" /></a>
-<a href="https://fb.com/stephen vincent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stephen vincent" height="30" width="40" /></a>
-<a href="https://instagram.com/v.i.n.n.i.e_.254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.i.n.n.i.e_.254" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vinnie254." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vinnie254." height="30" width="40" /></a>
-</p>
+### 🌍 **Digital Craftsman** • **Code Architect** • **Problem Solver**
+*Juja, Kiambu, Kenya* 🇰🇪
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  </a>--> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![Linkedin](https://img.shields.io/badge/-Stephen_Vincent-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/stephen-vincent)](https://linkedin.com/in/stephen-vincent)
+[![Twitter](https://img.shields.io/badge/-@stephenvin16363-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/stephenvin16363)](https://twitter.com/stephenvin16363)
+[![YouTube](https://img.shields.io/badge/-vinnie254-darkred?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/vinnie254.)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvinnie254&show_icons=true&locale=en&layout=compact" alt="iamvinnie254" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvinnie254&show_icons=true&locale=en" alt="iamvinnie254" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvinnie254&" alt="iamvinnie254" /></p>
+## 🎯 **Mission Control**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 **Current Trajectory**
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Stephen Vincent"
+        self.focus = ["React.js", "Django", "TypeScript"]
+        self.status = "Building the future, one commit at a time"
+        self.coffee_level = "Always Full ☕"
+    
+    def get_passion(self):
+        return "Turning ideas into digital reality"
+```
+
+</td>
+<td width="50%">
+
+### 🎮 **Stats Dashboard**
+```bash
+$ whoami
+stephen@dev:~$ Full-Stack Developer
+
+$ cat experience.txt
+▓▓▓▓▓▓▓▓░░ 80% Frontend
+▓▓▓▓▓▓▓░░░ 70% Backend  
+▓▓▓▓▓▓░░░░ 60% DevOps
+▓▓▓▓▓▓▓▓▓░ 90% Problem Solving
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ **Tech DNA**
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Stephen's Tech Stack))
+    Frontend
+      React.js
+      TypeScript
+      JavaScript
+      HTML/CSS
+    Backend
+      Django
+      Python
+      Node.js
+      APIs
+    Tools
+      Git
+      Figma
+      VS Code
+      MySQL
+    Learning
+      Advanced React
+      Cloud Technologies
+      System Design
+```
+
+</div>
+
+---
+
+## 🌊 **Code Ocean** 
+
+<div align="center">
+
+| **🔍 Discovery** | **🚀 Innovation** | **💡 Creation** |
+|:---:|:---:|:---:|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvinnie254&layout=compact&theme=radical&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvinnie254&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvinnie254&theme=radical&hide_border=true) |
+
+</div>
+
+---
+
+## 🎨 **Digital Fingerprint**
+
+<details>
+<summary><b>🔧 Development Environment</b></summary>
+
+```yaml
+OS: 
+  - Windows 11 / Linux Ubuntu
+  
+Editor: 
+  - VS Code with custom themes
+  - Vim for quick edits
+  
+Terminal:
+  - Windows Terminal / Zsh
+  
+Workflow:
+  - Git Flow
+  - Agile Development
+  - Test-Driven Development
+```
+
+</details>
+
+<details>
+<summary><b>🎯 Current Projects</b></summary>
+
+- 🌐 **E-Commerce Platform** - Full-stack Django + React
+- 📱 **Mobile-First Web Apps** - Progressive Web Applications  
+- 🤖 **API Development** - RESTful services with Django REST Framework
+- 🎮 **Interactive Dashboards** - Data visualization with React
+
+</details>
+
+<details>
+<summary><b>🌱 Learning Journey</b></summary>
+
+```javascript
+const learningPath = {
+  current: ["Advanced React Patterns", "Django Best Practices"],
+  next: ["GraphQL", "Docker", "AWS"],
+  future: ["Machine Learning", "Blockchain", "Mobile Development"],
+  philosophy: "Never stop growing 🌱"
+};
+```
+
+</details>
+
+---
+
+## 🏆 **Achievement Unlocked**
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=iamvinnie254&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 📡 **Activity Radar**
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamvinnie254&theme=redical&hide_border=true&custom_title=Stephen's%20Contribution%20Galaxy)
+
+</div>
+
+---
+
+## 🎵 **Coding Soundtrack**
+
+<div align="center">
+
+```
+🎧 Currently vibing to: Lo-fi beats + keyboard clicks
+🎶 Debugging playlist: Synthwave + Electronic
+🚀 Deploy mode: Upbeat indie rock
+```
+
+</div>
+
+---
+
+## 💬 **Let's Build Something Epic**
+
+<div align="center">
+
+### 🤝 **Collaboration Mode: ON**
+
+I'm always excited to work on innovative projects, contribute to open source, or just chat about tech!
+
+**Drop me a line if you're interested in:**
+- 🚀 Collaborating on full-stack projects
+- 💡 Discussing new technologies and frameworks  
+- 🌟 Contributing to meaningful open source work
+- ☕ Virtual coffee chats about development
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **"Code is poetry written in logic"** 🌟
+
+**Thanks for stopping by! Let's create something extraordinary together.**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=iamvinnie254&color=blueviolet&style=for-the-badge)
+
+---
+
+<sub>💫 *This README was crafted with passion and a lot of caffeine* ☕</sub>
+
+</div>
