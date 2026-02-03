@@ -76,6 +76,28 @@ I am a results-driven **Software Engineer** with a strong foundation in backend 
 ---
 
 ## Let’s Connect
-I’m always open to collaboration, learning opportunities, and meaningful projects that create impact.
+
+I’m open to collaboration, learning opportunities, and impactful projects across software engineering and data analytics.
+
+<p align="left">
+  <a href="https://github.com/Iamvinnie254" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/stephen-vincent" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:vincentstephen489@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4CAF50?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vincentstephen.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://twitter.com/@Call_me_vinnie_" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+</p>
 
 
