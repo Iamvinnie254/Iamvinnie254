@@ -1,185 +1,81 @@
-<div align="center">
+# Stephen Vincent
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  ███████╗████████╗███████╗██████╗ ██╗  ██╗███████╗███╗   ██╗ ║
-║  ██╔════╝╚══██╔══╝██╔════╝██╔══██╗██║  ██║██╔════╝████╗  ██║ ║
-║  ███████╗   ██║   █████╗  ██████╔╝███████║█████╗  ██╔██╗ ██║ ║
-║  ╚════██║   ██║   ██╔══╝  ██╔═══╝ ██╔══██║██╔══╝  ██║╚██╗██║ ║
-║  ███████║   ██║   ███████╗██║     ██║  ██║███████╗██║ ╚████║ ║
-║  ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## Software Engineer | Aspiring Data Scientist
 
-</div>
-
-<div align="center">
-
-###  **Digital Craftsman** • **Code Architect** • **Problem Solver**
-*Juja, Kiambu, Kenya* 🇰🇪
-
-[![Linkedin](https://img.shields.io/badge/-Stephen_Vincent-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/stephen-vincent)](https://linkedin.com/in/stephen-vincent)
-[![Twitter](https://img.shields.io/badge/-@stephenvin16363-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/stephenvin16363)](https://twitter.com/stephenvin16363)
-[![YouTube](https://img.shields.io/badge/-vinnie254-darkred?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/vinnie254.)
-
-</div>
-
----
-<table>
-<tr>
-<td width="full">
-
-### 🔥 **Current Trajectory**
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Stephen Vincent"
-        self.focus = ["React.js", "Django", "TypeScript"]
-        self.status = "Building the future, one commit at a time"
-        self.coffee_level = "Always Full ☕"
-    
-    def get_passion(self):
-        return "Turning ideas into digital reality"
-```
-
-</td>
-</tr>
-</table>
+I am a results-driven **Software Engineer** with a strong foundation in backend and frontend development, and an **upcoming Data Scientist** with growing expertise in data analysis and visualization. I enjoy building scalable systems, clean APIs, and data-driven solutions that solve real-world problems.
 
 ---
 
-## ⚡ **Tech DNA**
+## Core Competencies
 
-<div align="center">
-
-```mermaid
-mindmap
-  root((Stephen's Tech Stack))
-    Frontend
-      React.js
-      TypeScript
-      JavaScript
-      HTML/CSS
-    Backend
-      Django
-      Python
-      GraphQL
-      APIs
-    Tools
-      Git
-      Figma
-      VS Code
-      MySQL
-    Learning
-      Advanced React
-      Cloud Technologies
-      System Design
-```
-
-</div>
+### Software Engineering
+- Backend Development using **Django (Python)** and **Laravel (PHP)**
+- RESTful API development with **Django REST Framework**
+- API documentation using **Swagger / OpenAPI**
+- GraphQL API development (Laravel ecosystem)
+- Frontend development using **React.js** and **Vue.js**
+- Modern UI development with **Tailwind CSS**
+- API consumption and integration using **Axios**
+- Relational databases: **PostgreSQL** and **MySQL**
+- Authentication, authorization, and role-based access control
+- Clean architecture and scalable system design
 
 ---
 
-## 🌊 **Code Ocean** 
-
-<div align="center">
-
-| **🔍 Discovery** | **🚀 Innovation** | **💡 Creation** |
-|:---:|:---:|:---:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvinnie254&layout=compact&theme=radical&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvinnie254&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvinnie254&theme=radical&hide_border=true) |
-
-</div>
+### Data Science & Analytics
+- Data analysis and reporting using **Microsoft Excel**
+- Database querying and data manipulation using **SQL**
+- Data visualization and dashboard creation using **Power BI**
+- Transforming raw data into actionable insights
+- Analytical thinking and problem-solving using data
 
 ---
 
-## 🎨 **Digital Fingerprint**
+## Tech Stack Overview
 
-<details>
-<summary><b>🔧 Development Environment</b></summary>
+**Languages**
+- Python
+- PHP
+- JavaScript
+- SQL
 
-```yaml
-OS: 
-  - Windows 11 / Linux Ubuntu
-  
-Editor: 
-  - VS Code with custom themes
-  - Vim for quick edits
-  
-Terminal:
-  - Windows Terminal / Zsh
-  
-Workflow:
-  - Git Flow
-  - Agile Development
-  - Test-Driven Development
-```
+**Frameworks & Tools**
+- Django, Django REST Framework
+- Laravel, GraphQL
+- React.js, Vue.js
+- Tailwind CSS
+- Swagger / OpenAPI
+- Axios
 
-</details>
+**Databases**
+- PostgreSQL
+- MySQL
 
-<details>
-<summary><b>🎯 Current Projects</b></summary>
-
-- 🌐 **E-Commerce Platform** - Full-stack Django + React
-- 📱 **Mobile-First Web Apps** - Progressive Web Applications  
-- 🤖 **API Development** - RESTful services with Django REST Framework
-- 🎮 **Interactive Dashboards** - Data visualization with React
-
-</details>
-
-<details>
-<summary><b>🌱 Learning Journey</b></summary>
-
-```javascript
-const learningPath = {
-  current: ["Advanced React Patterns", "Django Best Practices"],
-  next: ["GraphQL", "Docker", "AWS"],
-  future: ["Machine Learning", "Blockchain", "Mobile Development"],
-  philosophy: "Never stop growing 🌱"
-};
-```
-
-</details>
+**Data & Visualization**
+- Excel
+- SQL
+- Power BI
 
 ---
 
-
-## 📡 **Activity Radar**
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamvinnie254&theme=redical&hide_border=true&custom_title=Stephen's%20Contribution%20Galaxy)
-
-</div>
+## What I’m Working On
+- Building full-stack web applications with modern frontend and backend technologies
+- Designing robust APIs for scalable systems
+- Advancing my skills in data science, analytics, and visualization
+- Exploring data-driven decision-making and real-world datasets
 
 ---
 
-## 🎵 **Coding Soundtrack**
-
-<div align="center">
-
-```
-🎧 Currently vibing to: Lo-fi beats + keyboard clicks
-🎶 Debugging playlist: Synthwave + Electronic
-🚀 Deploy mode: Upbeat indie rock
-```
-
-</div>
+## Professional Interests
+- Full-stack web development
+- Backend systems and API design
+- Data analytics and business intelligence
+- Scalable and secure software solutions
+- Continuous learning and skill improvement
 
 ---
 
+## Let’s Connect
+I’m always open to collaboration, learning opportunities, and meaningful projects that create impact.
 
----
 
-<div align="center">
-
-### 🌟 **"Code is poetry written in logic"** 🌟
-
-**Thanks for stopping by! Let's create something extraordinary together.**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=iamvinnie254&color=blueviolet&style=for-the-badge)
-
----
-
-<sub>💫 *This README was crafted with passion and a lot of caffeine* ☕</sub>
-
-</div>
