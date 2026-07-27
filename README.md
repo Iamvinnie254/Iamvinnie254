@@ -1,79 +1,34 @@
-# Stephen Vincent
+# Hi, I'm Stephen👋
 
-## Software Engineer | Aspiring Data Scientist
+### Software Engineer 
 
-I am a results-driven **Software Engineer** with a strong foundation in backend and frontend development, and an **upcoming Data Scientist** with growing expertise in data analysis and visualization. I enjoy building scalable systems, clean APIs, and data-driven solutions that solve real-world problems.
+Building scalable web applications, clean APIs, and data-driven solutions.
 
----
+###  Tech Stack
 
-## Core Competencies
+<p>
+  <img src="https://skillicons.dev/icons?i=python,react,next,js,django,vue,tailwind,postgres,php,laravel,mysql,git,github,vscode" />
+</p>
 
-### Software Engineering
-- Backend Development using **Django (Python)** and **Laravel (PHP)**
-- RESTful API development with **Django REST Framework**
-- API documentation using **Swagger / OpenAPI**
-- GraphQL API development (Laravel ecosystem)
-- Frontend development using **React.js** and **Vue.js**
-- Modern UI development with **Tailwind CSS**
-- API consumption and integration using **Axios**
-- Relational databases: **PostgreSQL** and **MySQL**
-- Authentication, authorization, and role-based access control
-- Clean architecture and scalable system design
+<p>
+  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
----
+###  Currently
 
-### Data Science & Analytics
-- Data analysis and reporting using **Microsoft Excel**
-- Database querying and data manipulation using **SQL**
-- Data visualization and dashboard creation using **Power BI**
-- Transforming raw data into actionable insights
-- Analytical thinking and problem-solving using data
+- Building full-stack applications
+- Designing scalable REST & GraphQL APIs
+- Learning Data Science & Analytics
+- Turning data into actionable insights
 
----
+### Interests
 
-## Tech Stack Overview
-
-**Languages**
-- Python
-- PHP
-- JavaScript
-- SQL
-
-**Frameworks & Tools**
-- Django, Django REST Framework
-- Laravel, GraphQL
-- React.js, Vue.js
-- Tailwind CSS
-- Swagger / OpenAPI
-- Axios
-
-**Databases**
-- PostgreSQL
-- MySQL
-
-**Data & Visualization**
-- Excel
-- SQL
-- Power BI
-
----
-
-## What I’m Working On
-- Building full-stack web applications with modern frontend and backend technologies
-- Designing robust APIs for scalable systems
-- Advancing my skills in data science, analytics, and visualization
-- Exploring data-driven decision-making and real-world datasets
-
----
-
-## Professional Interests
-- Full-stack web development
-- Backend systems and API design
-- Data analytics and business intelligence
-- Scalable and secure software solutions
-- Continuous learning and skill improvement
-
----
+Full-Stack Development • Backend Engineering • APIs • Data Science • Business Intelligence
 
 ## Let’s Connect
 
