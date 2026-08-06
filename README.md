@@ -1,4 +1,4 @@
-# Hi, I'm Stephen👋
+# Hi, I'm Stephen (●'◡'●)
 
 ### Software Engineer 
 
