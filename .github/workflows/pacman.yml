@@ -1,9 +1,23 @@
 name: Generate Daily Graph
 
 on:
+  push:
+    paths:
+      - ".github/workflows/pacman.yml"
+      - "README.md"
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "Graph to generate"
+        required: true
+        default: "auto"
+        type: choice
+        options:
+          - auto
+          - pacman
+          - snake
 
 jobs:
   build:
@@ -18,15 +32,23 @@ jobs:
       - name: Determine graph mode
         id: determine-mode
         shell: bash
+        env:
+          REQUESTED_MODE: ${{ inputs.mode }}
         run: |
           set -euo pipefail
 
           day="$(date -u +%-d)"
-          if (( day % 2 == 0 )); then
-            echo "mode=pacman" >> "$GITHUB_OUTPUT"
-          else
-            echo "mode=snake" >> "$GITHUB_OUTPUT"
+          mode="${REQUESTED_MODE:-}"
+
+          if [[ -z "$mode" || "$mode" == "auto" ]]; then
+            if (( day % 2 == 0 )); then
+              mode="pacman"
+            else
+              mode="snake"
+            fi
           fi
+
+          echo "mode=$mode" >> "$GITHUB_OUTPUT"
 
       - name: Prepare output directory
         run: |
