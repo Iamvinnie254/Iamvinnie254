@@ -65,17 +65,17 @@ I’m open to collaboration, learning opportunities, and impactful projects acro
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/pacman-output/pacman-contribution-graph-dark.svg"
+    srcset="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/main/dist/contribution-graph.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/pacman-output/pacman-contribution-graph.svg"
+    srcset="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/main/dist/contribution-graph.svg"
   />
 
   <img
     alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/pacman-output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/main/dist/contribution-graph.svg"
   />
 </picture>
 
