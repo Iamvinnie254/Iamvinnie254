@@ -63,20 +63,9 @@ I’m open to collaboration, learning opportunities, and impactful projects acro
 ###
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/main/dist/contribution-graph.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/main/dist/contribution-graph.svg"
-  />
-
-  <img
-    alt="Snake contribution graph"
-    src="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/main/dist/contribution-graph.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/output/github-snake-dark.svg" /> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/output/github-snake.svg" /> 
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/output/github-snake.svg" width="100%" /> 
 </picture>
 
 ###
