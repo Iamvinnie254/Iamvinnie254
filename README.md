@@ -74,7 +74,7 @@ I’m open to collaboration, learning opportunities, and impactful projects acro
   />
 
   <img
-    alt="Pacman contribution graph"
+    alt="Snake contribution graph"
     src="https://raw.githubusercontent.com/Iamvinnie254/Iamvinnie254/main/dist/contribution-graph.svg"
   />
 </picture>

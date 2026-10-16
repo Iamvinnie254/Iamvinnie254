@@ -1,0 +1,51 @@
+name: Generate Daily Graph
+
+on:
+  push:
+    paths:
+      - ".github/workflows/snake.yml"
+      - "README.md"
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Prepare output directory
+        run: |
+          rm -rf dist
+          mkdir -p dist
+
+      - name: Generate Snake graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/contribution-graph.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Verify generated graph
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          test -s dist/contribution-graph.svg
+          echo "Generated graph:"
+          ls -lh dist/contribution-graph.svg
+
+      - name: Commit and push generated graph
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update contribution graph [snake]"
+          file_pattern: dist/contribution-graph.svg
+          commit_user_name: Iamvinnie254
+          commit_user_email: 168260260+Iamvinnie254@users.noreply.github.com
+          commit_author: Iamvinnie254 <168260260+Iamvinnie254@users.noreply.github.com>
