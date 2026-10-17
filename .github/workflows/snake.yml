@@ -44,7 +44,7 @@ jobs:
       - name: Commit and push generated graph
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update contribution graph [snake]"
+          commit_message: "Update config files"
           file_pattern: dist/contribution-graph.svg
           commit_user_name: Iamvinnie254
           commit_user_email: 168260260+Iamvinnie254@users.noreply.github.com
